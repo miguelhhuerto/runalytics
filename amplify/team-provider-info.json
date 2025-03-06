@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-runalytics-dev-13315-authRole",
+      "UnauthRoleArn": "arn:aws:iam::084828560751:role/amplify-runalytics-dev-13315-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::084828560751:role/amplify-runalytics-dev-13315-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-runalytics-dev-13315-deployment",
+      "UnauthRoleName": "amplify-runalytics-dev-13315-unauthRole",
+      "StackName": "amplify-runalytics-dev-13315",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:084828560751:stack/amplify-runalytics-dev-13315/43b7bbd0-fa5a-11ef-80d2-06fd967c2749",
+      "AmplifyAppId": "d1fftvw8b9611y"
+    }
+  }
+}
